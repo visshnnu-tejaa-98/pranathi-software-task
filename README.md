@@ -13,7 +13,8 @@ https://incredible-belekoy-525b17.netlify.app/
 1. Create simple crud operations with 8 fields and validations
 2. One get api call show in Data table with dynamic header and body
 3. Use useMemo and useCallback function create components
-4. Use Redux get login details in components - used a dummy login (also specified in hosted Application)
-    -use email: demo@gmail.com
-    -use password: demo@123    
+4. Use Redux get login details in components - used a dummy login (also specified in hosted Application) <br >
+
+    - use email: demo@gmail.com <br >
+    - use password: demo@123     <br >
 6. Use Redux store in create some actions and store component data in store
