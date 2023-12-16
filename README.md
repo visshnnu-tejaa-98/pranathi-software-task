@@ -1,7 +1,7 @@
 # Pranathi-software Assessment
 
 ### Hosted URL
-https://incredible-belekoy-525b17.netlify.app/
+https://pranathi-software-assessment.netlify.app/
 
 ### How to run Locally
 1. Clone the repo in to your desired folder
